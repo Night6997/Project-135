@@ -1,0 +1,17 @@
+body
+{
+    background: linear-gradient(to bottom mediumspringgreen, darkgreen);
+}
+.heading
+{
+    font-size:25px;
+    margin:0px;
+}
+#heading2
+{
+    font-size:15px;
+}
+canvas
+{
+    box-sizing: 5px 5px 5px darkturquoise;
+}
